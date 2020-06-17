@@ -1,0 +1,16 @@
+.square {
+    background-color: black;
+    width: 99%;
+    height: 99%;
+}
+
+#resetbtn {
+    margin-bottom: 10px;
+}
+
+#container {
+    width: 600px; 
+    height: 600px;
+    display: grid;
+    grid-gap: 1px;
+}
